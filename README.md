@@ -225,16 +225,10 @@ Dashboard đọc PRD/tính năng AI → **phân loại rủi ro** (high/limited)
 
 ---
 
-## ELI5 – Nói ngắn gọn cho dễ hình dung
-
 * **Zalo Voice‑to‑CRM:** Mọi lời nói của khách đều tự biến thành “việc phải làm”.
 * **Policy → Simulator:** Tài liệu khô khan biến thành trò chơi hỏi–đáp có dẫn chứng.
 * **Invoice Checker:** “Giáo viên” chấm bài hóa đơn, chỉ lỗi và cách sửa.
 * **TikTok Triage:** Lễ tân trực 24/7 trả lời bình luận và ghi lại việc.
-
----
-
-Nếu FoxAI muốn, mình sẽ **chọn 1–2 ý tưởng và viết backlog chi tiết (user stories + acceptance criteria)** ngay trong cùng format này để team vào sprint.
 
 ---
 
